@@ -94,5 +94,44 @@
   },
   "0004-median-of-two-sorted-arrays": {
     "name": "0004-median-of-two-sorted-arrays"
+  },
+  "0040-combination-sum-ii": {
+    "name": "0040-combination-sum-ii"
+  },
+  "0034-find-first-and-last-position-of-element-in-sorted-array": {
+    "name": "0034-find-first-and-last-position-of-element-in-sorted-array"
+  },
+  "0041-first-missing-positive": {
+    "name": "0041-first-missing-positive"
+  },
+  "0037-sudoku-solver": {
+    "name": "0037-sudoku-solver"
+  },
+  "0030-substring-with-concatenation-of-all-words": {
+    "name": "0030-substring-with-concatenation-of-all-words"
+  },
+  "0035-search-insert-position": {
+    "name": "0035-search-insert-position"
+  },
+  "0042-trapping-rain-water": {
+    "name": "0042-trapping-rain-water"
+  },
+  "0043-multiply-strings": {
+    "name": "0043-multiply-strings"
+  },
+  "0039-combination-sum": {
+    "name": "0039-combination-sum"
+  },
+  "0032-longest-valid-parentheses": {
+    "name": "0032-longest-valid-parentheses"
+  },
+  "0036-valid-sudoku": {
+    "name": "0036-valid-sudoku"
+  },
+  "0038-count-and-say": {
+    "name": "0038-count-and-say"
+  },
+  "0033-search-in-rotated-sorted-array": {
+    "name": "0033-search-in-rotated-sorted-array"
   }
 }
