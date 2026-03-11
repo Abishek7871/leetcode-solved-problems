@@ -1,1 +1,98 @@
-{}
+{
+  "0007-reverse-integer": {
+    "name": "0007-reverse-integer"
+  },
+  "0018-4sum": {
+    "name": "0018-4sum"
+  },
+  "0009-palindrome-number": {
+    "name": "0009-palindrome-number"
+  },
+  "0019-remove-nth-node-from-end-of-list": {
+    "name": "0019-remove-nth-node-from-end-of-list"
+  },
+  "0005-longest-palindromic-substring": {
+    "name": "0005-longest-palindromic-substring"
+  },
+  "0014-longest-common-prefix": {
+    "name": "0014-longest-common-prefix"
+  },
+  "0028-find-the-index-of-the-first-occurrence-in-a-string": {
+    "name": "0028-find-the-index-of-the-first-occurrence-in-a-string"
+  },
+  "0001-two-sum": {
+    "name": "0001-two-sum"
+  },
+  "0016-3sum-closest": {
+    "name": "0016-3sum-closest"
+  },
+  "0020-valid-parentheses": {
+    "name": "0020-valid-parentheses"
+  },
+  "0024-swap-nodes-in-pairs": {
+    "name": "0024-swap-nodes-in-pairs"
+  },
+  "0021-merge-two-sorted-lists": {
+    "name": "0021-merge-two-sorted-lists"
+  },
+  "0015-3sum": {
+    "name": "0015-3sum"
+  },
+  "0013-roman-to-integer": {
+    "name": "0013-roman-to-integer"
+  },
+  "1526-html-entity-parser": {
+    "name": "1526-html-entity-parser"
+  },
+  "0027-remove-element": {
+    "name": "0027-remove-element"
+  },
+  "0008-string-to-integer-atoi": {
+    "name": "0008-string-to-integer-atoi"
+  },
+  "3622-maximum-frequency-of-an-element-after-performing-operations-i": {
+    "name": "3622-maximum-frequency-of-an-element-after-performing-operations-i"
+  },
+  "0006-zigzag-conversion": {
+    "name": "0006-zigzag-conversion"
+  },
+  "0026-remove-duplicates-from-sorted-array": {
+    "name": "0026-remove-duplicates-from-sorted-array"
+  },
+  "0023-merge-k-sorted-lists": {
+    "name": "0023-merge-k-sorted-lists"
+  },
+  "0003-longest-substring-without-repeating-characters": {
+    "name": "0003-longest-substring-without-repeating-characters"
+  },
+  "0002-add-two-numbers": {
+    "name": "0002-add-two-numbers"
+  },
+  "0011-container-with-most-water": {
+    "name": "0011-container-with-most-water"
+  },
+  "0029-divide-two-integers": {
+    "name": "0029-divide-two-integers"
+  },
+  "0017-letter-combinations-of-a-phone-number": {
+    "name": "0017-letter-combinations-of-a-phone-number"
+  },
+  "0031-next-permutation": {
+    "name": "0031-next-permutation"
+  },
+  "0010-regular-expression-matching": {
+    "name": "0010-regular-expression-matching"
+  },
+  "0022-generate-parentheses": {
+    "name": "0022-generate-parentheses"
+  },
+  "0012-integer-to-roman": {
+    "name": "0012-integer-to-roman"
+  },
+  "0025-reverse-nodes-in-k-group": {
+    "name": "0025-reverse-nodes-in-k-group"
+  },
+  "0004-median-of-two-sorted-arrays": {
+    "name": "0004-median-of-two-sorted-arrays"
+  }
+}
