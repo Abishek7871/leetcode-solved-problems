@@ -4,7 +4,7 @@ Automatically synced solutions from LeetCode.
 
 ## 📊 Statistics
 
-**Total Problems Solved: 40**
+**Total Problems Solved: 41**
 
 | Topic | Problems |
 |------|------|
@@ -15,7 +15,7 @@ Automatically synced solutions from LeetCode.
 | 05-binary-search | 1 |
 | 06-linked-list | 1 |
 | 09-graphs | 2 |
-| 11-backtracking | 2 |
+| 11-backtracking | 3 |
 | 13-math | 4 |
 | 15-strings | 6 |
 | 16-misc | 10 |
@@ -47,6 +47,7 @@ Automatically synced solutions from LeetCode.
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 09-graphs |
 | 0017 | [Letter Combinations Of A Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 11-backtracking |
 | 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 11-backtracking |
+| 0046 | [Permutations](https://leetcode.com/problems/permutations/) | 11-backtracking |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 13-math |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 13-math |
 | 0013 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) | 13-math |
