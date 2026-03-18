@@ -4,7 +4,7 @@ Automatically synced solutions from LeetCode.
 
 ## 📊 Statistics
 
-**Total Problems Solved: 39**
+**Total Problems Solved: 40**
 
 | Topic | Problems |
 |------|------|
@@ -18,7 +18,7 @@ Automatically synced solutions from LeetCode.
 | 11-backtracking | 2 |
 | 13-math | 4 |
 | 15-strings | 6 |
-| 16-misc | 9 |
+| 16-misc | 10 |
 
 
 ---
@@ -61,6 +61,7 @@ Automatically synced solutions from LeetCode.
 | 0024 | [Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | 16-misc |
 | 1526 | [Html Entity Parser](https://leetcode.com/problems/html-entity-parser/) | 16-misc |
 | 3622 | [Maximum Frequency Of An Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) | 16-misc |
+| 0058 | [Length Of Last Word](https://leetcode.com/problems/length-of-last-word/) | 16-misc |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | 16-misc |
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 16-misc |
 | 0010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 16-misc |

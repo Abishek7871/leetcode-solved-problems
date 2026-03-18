@@ -133,5 +133,8 @@
   },
   "0033-search-in-rotated-sorted-array": {
     "name": "0033-search-in-rotated-sorted-array"
+  },
+  "0058-length-of-last-word": {
+    "name": "0058-length-of-last-word"
   }
 }
