@@ -241,5 +241,38 @@
   },
   "0070-climbing-stairs": {
     "name": "0070-climbing-stairs"
+  },
+  "0088-merge-sorted-array": {
+    "name": "0088-merge-sorted-array"
+  },
+  "0081-search-in-rotated-sorted-array-ii": {
+    "name": "0081-search-in-rotated-sorted-array-ii"
+  },
+  "0084-largest-rectangle-in-histogram": {
+    "name": "0084-largest-rectangle-in-histogram"
+  },
+  "0087-scramble-string": {
+    "name": "0087-scramble-string"
+  },
+  "0083-remove-duplicates-from-sorted-list": {
+    "name": "0083-remove-duplicates-from-sorted-list"
+  },
+  "0089-gray-code": {
+    "name": "0089-gray-code"
+  },
+  "0090-subsets-ii": {
+    "name": "0090-subsets-ii"
+  },
+  "0080-remove-duplicates-from-sorted-array-ii": {
+    "name": "0080-remove-duplicates-from-sorted-array-ii"
+  },
+  "0085-maximal-rectangle": {
+    "name": "0085-maximal-rectangle"
+  },
+  "0086-partition-list": {
+    "name": "0086-partition-list"
+  },
+  "0082-remove-duplicates-from-sorted-list-ii": {
+    "name": "0082-remove-duplicates-from-sorted-list-ii"
   }
 }

@@ -4,21 +4,21 @@ Automatically synced solutions from LeetCode.
 
 ## 📊 Statistics
 
-**Total Problems Solved: 70**
+**Total Problems Solved: 80**
 
 | Topic | Problems |
 |------|------|
-| 01-arrays | 13 |
+| 01-arrays | 18 |
 | 02-two-pointers | 4 |
 | 03-sliding-window | 1 |
 | 04-stack | 3 |
 | 05-binary-search | 2 |
-| 06-linked-list | 1 |
+| 06-linked-list | 2 |
 | 09-graphs | 2 |
 | 11-backtracking | 6 |
 | 13-math | 8 |
-| 15-strings | 8 |
-| 16-misc | 22 |
+| 15-strings | 9 |
+| 16-misc | 25 |
 
 
 ---
@@ -27,19 +27,24 @@ Automatically synced solutions from LeetCode.
 
 | # | Problem | Topic |
 |---|---|---|
+| 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 01-arrays |
+| 0081 | [Search In Rotated Sorted Array Ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 01-arrays |
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 01-arrays |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 01-arrays |
 | 0059 | [Spiral Matrix Ii](https://leetcode.com/problems/spiral-matrix-ii/) | 01-arrays |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 01-arrays |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | 01-arrays |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 01-arrays |
+| 0083 | [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 01-arrays |
 | 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) | 01-arrays |
+| 0080 | [Remove Duplicates From Sorted Array Ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | 01-arrays |
 | 0034 | [Find First And Last Position Of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 01-arrays |
 | 0033 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 01-arrays |
 | 0074 | [Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 01-arrays |
 | 0026 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 01-arrays |
 | 0004 | [Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 01-arrays |
 | 0019 | [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 01-arrays |
+| 0082 | [Remove Duplicates From Sorted List Ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | 01-arrays |
 | 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | 02-two-pointers |
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 02-two-pointers |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 02-two-pointers |
@@ -51,6 +56,7 @@ Automatically synced solutions from LeetCode.
 | 0079 | [Word Search](https://leetcode.com/problems/word-search/) | 05-binary-search |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 05-binary-search |
 | 0023 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | 06-linked-list |
+| 0086 | [Partition List](https://leetcode.com/problems/partition-list/) | 06-linked-list |
 | 0037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | 09-graphs |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | 09-graphs |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations/) | 11-backtracking |
@@ -72,13 +78,16 @@ Automatically synced solutions from LeetCode.
 | 0028 | [Find The Index Of The First Occurrence In A String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 15-strings |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | 15-strings |
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 15-strings |
+| 0087 | [Scramble String](https://leetcode.com/problems/scramble-string/) | 15-strings |
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | 15-strings |
 | 0043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | 15-strings |
 | 0030 | [Substring With Concatenation Of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | 15-strings |
 | 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 16-misc |
+| 0084 | [Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 16-misc |
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | 16-misc |
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 16-misc |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game/) | 16-misc |
+| 0089 | [Gray Code](https://leetcode.com/problems/gray-code/) | 16-misc |
 | 0058 | [Length Of Last Word](https://leetcode.com/problems/length-of-last-word/) | 16-misc |
 | 0010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 16-misc |
 | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 16-misc |
@@ -95,6 +104,7 @@ Automatically synced solutions from LeetCode.
 | 0052 | [N Queens Ii](https://leetcode.com/problems/n-queens-ii/) | 16-misc |
 | 0068 | [Text Justification](https://leetcode.com/problems/text-justification/) | 16-misc |
 | 0025 | [Reverse Nodes In K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | 16-misc |
+| 0085 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 16-misc |
 | 0072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | 16-misc |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 16-misc |
 
